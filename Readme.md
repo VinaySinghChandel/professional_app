@@ -5,3 +5,4 @@ App Link : https://dashboard.render.com/web/srv-d095op8dl3ps73a8gv2g
 
 IDE Link : Stackblitz
 
+Cloudnary : https://cloudinary.com/, For files
